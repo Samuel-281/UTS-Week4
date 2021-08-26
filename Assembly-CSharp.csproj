@@ -57,8 +57,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\ProgressEvaluator.cs" />
-    <Compile Include="Assets\Scripts\Test.cs" />
     <Compile Include="Assets\LoadAssets.cs" />
+    <Compile Include="Assets\Scripts\Test.cs" />
+    <Compile Include="Assets\ConsolePrint.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
