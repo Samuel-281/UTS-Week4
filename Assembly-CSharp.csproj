@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{DDB50613-C16D-154F-9814-E073F3C26057}</ProjectGuid>
+    <ProjectGuid>{85334C50-B5EE-9F24-D65F-52659F4C4D93}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\ProgressEvaluator.cs" />
     <Compile Include="Assets\Scripts\Test.cs" />
+    <Compile Include="Assets\LoadAssets.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
